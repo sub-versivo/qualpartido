@@ -59,7 +59,7 @@ function parse_langs(data){
     if (langs.some(element => element === window.location.search.substring(1))){
         lang = window.location.search.substring(1)
     } else {
-        lang = "en"
+        lang = "pt"
     }
     fetch(`./json/${lang}/ui-${lang}.json`)
         .then(response => response.json())
