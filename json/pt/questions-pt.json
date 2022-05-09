@@ -7,7 +7,7 @@
     ],
     "results": {},
     "nextquestion": {
-      "yes":"milícia",
+      "yes":"milicia",
       "no": "interesse"
     }
   },
@@ -50,7 +50,7 @@
     }
   },
   "clt": {
-    "question": "Você que os contratos de trabalho não tivessem hoário fixo (e, portanto, sem salário fixo), mínimo de férias, 13º ou FGTS?",
+    "question": "Você gostaria que os contratos de trabalho não tivessem horário fixo (e, portanto, salário fixo), mínimo de férias, 13º ou FGTS?",
     "answers": [
       "yes",
       "no"
@@ -75,7 +75,7 @@
     }
   },
   "gays": {
-    "question": "Gays, lésbicas, bissesuais, travestis, transsexuaus e outros, deveriam ter os mesmos direitos, inclusive se casar e adotar filhos?",
+    "question": "Gays, lésbicas, bissesuais, travestis, transsexuaus e outros, deveriam ter os mesmos direitos que os heterossexuais, inclusive se casar e adotar filhos?",
     "answers": [
       "yes",
       "no"
@@ -87,7 +87,7 @@
     "nextquestion": {}
   },
   "religiao": {
-    "question": "As igrejas deveriam participar ativamente da vida política?",
+    "question": "O governo deveria ser guiado pelos princípios do cristianismo?",
     "answers": [
       "yes",
       "no"

@@ -26,7 +26,7 @@ function parse_langs(data){
     if (langs.some(element => element === window.location.search.substring(1))){
         lang = window.location.search.substring(1)
     } else {
-        lang = "en"
+        lang = "pt"
     }
     document.getElementById("langDropdown").selectedIndex = langs.indexOf(lang,0)
     fetch(`./json/${lang}/ui-${lang}.json`)

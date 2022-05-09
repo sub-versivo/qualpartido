@@ -2,7 +2,7 @@
   "index":{
     "title": "Qual Partido",
     "text": "<h2>O que é o Qual Partido?</h2><p>Qual Partido? é um teste político que tenta identificar o partido que se aproxima dos seus ideais politicos perguntando questões no estilo de um fluxograma. Este teste vai selecionar um de <span id='ideo_lenght'></span> diferentes partidos políticos com base nas suas repostas às questões dadas!</p><h2>Eu não entendo uma das questões!</h2><p>Se houver algo que não entenda, pode entrar em contato com quaisquer comentários para fazermos alterações ao teste!</p><h2>Eu não gosto do partido que deram!</h2><p>¯\\_(ツ)_/¯</p>",
-    "start": "Clique aquí para começar!",
+    "start": "Clique aqui para começar!",
     "contacts": "Contatos:",
     "contact_info": "<p>Sub-Versivo</p><p>subversivo@vivaldi.net</p><p><a href=\"https://github.com/sub-versivo/qualpartido.github.io\">Página Github</a></p>"
   },

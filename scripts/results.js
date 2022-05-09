@@ -13,7 +13,7 @@ function throw404(){
 
 function load_results(data){
     if (typeof data[ideo] != "undefined"){
-        document.getElementById("image").src = `assets/flags/${ideo}_flag.svg`
+        document.getElementById("image").src = `assets/flags/${ideo}.jpg`
         document.getElementById("result").innerHTML = data[ideo].result
         document.getElementById("desc").innerHTML = data[ideo].desc
     } else {
