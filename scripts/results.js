@@ -5,7 +5,7 @@ function throw404(){
     let lottieScript = document.createElement("script")
     lottieScript.setAttribute("src", "https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js")
     document.body.appendChild(lottieScript)
-    document.getElementById("result").innerHTML = "Result not found"
+    document.getElementById("result").innerHTML = "Resultado não encontrado"
     document.getElementById("indexbutton").style.display = "None"
     document.getElementById("creditsbutton").style.display = "None"
     document.getElementById("desc").innerHTML = "<lottie-player src='https://assets7.lottiefiles.com/temp/lf20_0txt7u.json' background='transparent' speed='1' style='width: 300px; height: 300px;margin:auto' loop autoplay></lottie-player>"
