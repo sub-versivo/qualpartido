@@ -1,7 +1,7 @@
 {
   "centrao": {
     "result": "Você é um fisiocrata, que vai se sentir bem na maior parte dos partidos",
-    "desc": "O fisiocrata quer, antes de mais nada, atender os seus insteresses pesoais. Se reeleger, conseguir aquele conchavo, pegar uma grana. Quase todos os partidos do Brasil são assim. Os maiores são MDB, PSD, União Brasil, etc. As pessoas dentro destes partidos querem a manutenção da sociedade como está, já que esta sociedade os beneficia. Elas vão defender o que for mais interessante no momento, e costumam trocar de partido a cada eleição."
+    "desc": "O fisiocrata quer, antes de mais nada, atender os seus interesses pessoais. Se reeleger, conseguir aquele conchavo, pegar uma grana. Quase todos os partidos do Brasil são assim. Os maiores são MDB, PSD, União Brasil, etc. As pessoas dentro destes partidos querem a manutenção da sociedade como está, já que esta sociedade os beneficia. Elas vão defender o que for mais interessante no momento, e costumam trocar de partido a cada eleição."
   },
   "pl": {
     "result": "Você é um neofascista, que vai se sentir bem no PL",
@@ -13,19 +13,19 @@
   },
   "liberal": {
     "result": "Você é um liberal, e não vai se sentir bem em partido nenhum",
-    "desc": "Infelizmente não existem partidos liberais no Brasil. Aqueles que se declaram liberais na verdade defendem só a desregulamentação dos mercados, principalmente o de trabalho, como mecanismo para proteger os próprios privilégios, mas não defendem as pautas sociais do liberalismo. Procure o Partido Pirata (em construção) ou o Movimento Livres. É o mais perto que vai cehgar."
+    "desc": "Infelizmente não existem partidos liberais no Brasil. Aqueles que se declaram liberais na verdade defendem só a desregulamentação dos mercados, principalmente o de trabalho, como mecanismo para proteger os próprios privilégios, mas não defendem as pautas sociais do liberalismo. Procure o Partido Pirata (em construção) ou o Movimento Livres. É o mais perto que vai chegar."
   },
   "democracia_crista": {
     "result": "Você é um democrata cristão, e não vai se sentir bem em partido nenhum",
-    "desc": "Você acredita que o governo deve se guiar pelos valores cristãos da caridade e solidariedade, mas não quer nenhuma mudança radical. Infelizmente não existem partidos democrata cristãos no Brasil. Os partidos ligados à igrejas, como o Republicanos e o PSC apóiam medidas contra os pobres e os trabalhadores e religiosos mais movidos pela caridade tendem a participar de partidos de esquerda, como PT, PSOL e PCdoB, mas estes querem mudanças mais radicais na sociedade."
+    "desc": "Você acredita que o governo deve se guiar pelos valores cristãos da caridade e solidariedade, mas não quer nenhuma mudança radical. Infelizmente não existem partidos democrata cristãos no Brasil. Os partidos ligados à igrejas, como o Republicanos e o PSC apoiam medidas contra os pobres e os trabalhadores e religiosos mais movidos pela caridade tendem a participar de partidos de esquerda, como PT, PSOL e PCdoB, mas estes querem mudanças mais radicais na sociedade."
   },
   "pdt": {
     "result": "Você é um desenvolvimentista, e vai se sentir bem no PDT",
     "desc": "Você acredita que o subdesenvolvimento é a origem de todos os problemas do Brasil, e que para superar esses problemas é preciso um acordo do Estado com a iniciativa privada. Neste processo é preciso tomar cuidado para que os trabalhadores melhorem de vida com o desenvolvimento, mas não dá muita atenção às questões das minorias, que provavelmente chama de \"identitarismo\"."
   },
   "pt": {
-    "result": "Você é um socialdemocrata e vai se sentir bem no PT",
-    "desc": "Você acredita que o capitalismo tem problemas sérios, mas não pensa em superá-lo. Em vez disso, defende que o estado tenha políticas públicas que resolvam esses problemas. Outro partido socialdemocrata é o PSB."
+    "result": "Você é um social-democrata e vai se sentir bem no PT",
+    "desc": "Você acredita que o capitalismo tem problemas sérios, mas não pensa em superá-lo. Em vez disso, defende que o estado tenha políticas públicas que resolvam esses problemas. Outro partido social-democrata é o PSB."
   },
   "pcdob": {
     "result": "Você é um comunista e vai se sentir bem no PCdoB",
@@ -37,10 +37,10 @@
   },
   "up": {
     "result": "Você é um comunista e vai se sentir bem na UP",
-    "desc": "Você acredita que o capitalismo é a raiz dos problemas do Brasil e busca meios de superá-lo. Você acredita que o único caminho para o socialismo é a politização de massa para construir uma nova maiora popular, sem conciliação com a burguesia, e acredita que as eleições são o caminho para esta construção."
+    "desc": "Você acredita que o capitalismo é a raiz dos problemas do Brasil e busca meios de superá-lo. Você acredita que o único caminho para o socialismo é a politização de massa para construir uma nova maioria popular, sem conciliação com a burguesia, e acredita que as eleições são o caminho para esta construção."
   },
   "pco": {
     "result": "Você é um comunista e vai se sentir bem no PCO",
-    "desc": "Você acredita que o capitalismo é a raiz dos problemas do Brasil e busca meios de superá-lo. Você acredita que o único caminho para o socialismo é a politização de massa para construir uma nova maiora popular, sem conciliação com a burguesia, e encara as eleições como mera ferramenta de propaganda."
+    "desc": "Você acredita que o capitalismo é a raiz dos problemas do Brasil e busca meios de superá-lo. Você acredita que o único caminho para o socialismo é a politização de massa para construir uma nova maioria popular, sem conciliação com a burguesia, e encara as eleições como mera ferramenta de propaganda."
   }
 }

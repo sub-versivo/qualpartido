@@ -12,7 +12,7 @@
     }
   },
   "milicia": {
-    "question": "Policiais devem formar milícias para realizar assassinatos ilegais e finaciar esta atividade cobrando \"proteção\" dos moradores das áreas em que agem?",
+    "question": "Policiais devem formar milícias para realizar assassinatos ilegais e financiar esta atividade cobrando \"proteção\" dos moradores das áreas em que agem?",
     "answers": [
       "yes",
       "no"
@@ -24,7 +24,7 @@
     }
   },
   "tortura": {
-    "question": "Você apóia a tortura?",
+    "question": "Você apoia a tortura?",
     "answers": [
       "yes",
       "no"
@@ -37,7 +37,7 @@
     }
   },
   "interesse": {
-    "question": "Buscar o proprio interesse é o mais imporante na política?",
+    "question": "Buscar o próprio interesse é o mais importante na política?",
     "answers": [
       "yes",
       "no"
@@ -75,7 +75,7 @@
     }
   },
   "gays": {
-    "question": "Gays, lésbicas, bissesuais, travestis, transsexuaus e outros, deveriam ter os mesmos direitos que os heterossexuais, inclusive se casar e adotar filhos?",
+    "question": "Gays, lésbicas, bissexuais, travestis, transsexuais e outros, deveriam ter os mesmos direitos que os heterossexuais, inclusive se casar e adotar filhos?",
     "answers": [
       "yes",
       "no"
