@@ -8,5 +8,25 @@
     "text": "Não",
     "bgcolor": "#e3144f",
     "textcolor": "#000"
+  },
+  "apenasinocentes": {
+    "text": "Apenas se forem inocentes",
+    "bgcolor": "#e3144f",
+    "textcolor": "#000"
+  },
+  "iurd": {
+    "text": "Igreja Universal do Reino de Deus",
+    "bgcolor": "#14e371",
+    "textcolor": "#000"
+  },
+  "assdeus": {
+    "text": "Assembléia de Deus",
+    "bgcolor": "#14e371",
+    "textcolor": "#000"
+  },
+  "outra": {
+    "text": "Outra",
+    "bgcolor": "#14e371",
+    "textcolor": "#000"
   }
 }

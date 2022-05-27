@@ -19,6 +19,18 @@
     "result": "Você é um democrata cristão, e não vai se sentir bem em partido nenhum",
     "desc": "Você acredita que o governo deve se guiar pelos valores cristãos da caridade e solidariedade, mas não quer nenhuma mudança radical. Infelizmente não existem partidos democrata cristãos no Brasil. Os partidos ligados à igrejas, como o Republicanos e o PSC apoiam medidas contra os pobres e os trabalhadores e religiosos mais movidos pela caridade tendem a participar de partidos de esquerda, como PT, PSOL e PCdoB, mas estes querem mudanças mais radicais na sociedade."
   },
+  "republicanos": {
+    "result": "Você é um teocrata que vai se sentir bem no Republicanos",
+    "desc": "Você gostaria que os sacerdotes de sua igreja governassem a sociedade civil, o que é perigoso. Teocracias das mais diferentes religiões, do Tibete budista ao Talibã muçulmano são, historicamente, regimes com grande abuso de poder. Sua igreja, a Igreja Universal do Reino de Deus concorda com esta visão e participa ativamente da política através do partido Republicanos."
+  },
+  "psc": {
+    "result": "Você é um teocrata que vai se sentir bem no PSC",
+    "desc": "Você gostaria que os sacerdotes de sua igreja governassem a sociedade civil, o que é perigoso. Teocracias das mais diferentes religiões, do Tibete budista ao Talibã muçulmano são, historicamente, regimes com grande abuso de poder. Sua igreja, a Assembléia de Deus concorda com esta visão e participa ativamente da política através do Partido Social Cristão."
+  },
+  "teocracia_outra": {
+    "result": "",
+    "desc": ""
+  },
   "pdt": {
     "result": "Você é um desenvolvimentista, e vai se sentir bem no PDT",
     "desc": "Você acredita que o subdesenvolvimento é a origem de todos os problemas do Brasil, e que para superar esses problemas é preciso um acordo do Estado com a iniciativa privada. Neste processo é preciso tomar cuidado para que os trabalhadores melhorem de vida com o desenvolvimento, mas não dá muita atenção às questões das minorias, que provavelmente chama de \"identitarismo\"."

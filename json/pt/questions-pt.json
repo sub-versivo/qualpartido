@@ -3,11 +3,14 @@
     "question": "O governante deve proteger aliados de serem investigados por corrupção?",
     "answers": [
       "yes",
+      "apenasinocentes",
       "no"
     ],
-    "results": {},
+    "results": {
+      "yes":"centrao"
+    },
     "nextquestion": {
-      "yes":"milicia",
+      "apenasinocentes":"milicia",
       "no": "interesse"
     }
   },
@@ -92,12 +95,38 @@
       "yes",
       "no"
     ],
-    "results": {
-      "yes":"democracia_crista"
-    },
+    "results": {},
     "nextquestion": {
+      "yes": "igreja",
       "no": "burguesia_nacional"
     }
+  },
+  "igreja": {
+    "question": "A sua igreja deveria participar da política, inclusive com candidatos próprios?",
+    "answers": [
+      "yes",
+      "no"
+    ],
+    "results": {
+      "no": "democracia_crista"
+    },
+    "nextquestion": {
+      "yes": "lista_igrejas"
+    }
+  },
+  "lista_igrejas": {
+    "question": "Qual é a sua igreja?",
+    "answers": [
+      "iurd",
+      "assdeus",
+      "outra"
+    ],
+    "results": {
+      "iurd": "republicanos",
+      "assdeus": "psc",
+      "outra": "teocracia_outra"
+    },
+    "nextquestion": {}
   },
   "burguesia_nacional": {
     "question": "O Brasil precisa construir uma cooperação entre o governo e os maiores empresários em um projeto nacional de desenvolvimento?",
