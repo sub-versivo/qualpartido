@@ -11,22 +11,22 @@
   },
   "apenasinocentes": {
     "text": "Apenas se forem inocentes",
-    "bgcolor": "#e3144f",
+    "bgcolor": "#50e024",
     "textcolor": "#000"
   },
   "iurd": {
     "text": "Igreja Universal do Reino de Deus",
-    "bgcolor": "#14e371",
+    "bgcolor": "#50e024",
     "textcolor": "#000"
   },
   "assdeus": {
     "text": "Assembléia de Deus",
-    "bgcolor": "#14e371",
+    "bgcolor": "#50e024",
     "textcolor": "#000"
   },
   "outra": {
     "text": "Outra",
-    "bgcolor": "#14e371",
+    "bgcolor": "#50e024",
     "textcolor": "#000"
   }
 }
