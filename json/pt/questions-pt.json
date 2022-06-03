@@ -18,9 +18,10 @@
       "yes",
       "no"
     ],
-    "results": {},
+    "results": {
+      "yes": "pl"
+    },
     "nextquestion": {
-      "yes": "pl",
       "no": "aparelhamento"
     }
   },

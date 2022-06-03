@@ -32,8 +32,8 @@
     "desc": "Você gostaria que os sacerdotes de sua igreja governassem a sociedade civil, o que é perigoso. Teocracias das mais diferentes religiões, do Tibete budista ao Talibã muçulmano são, historicamente, regimes com grande abuso de poder. Sua igreja, a Assembléia de Deus concorda com esta visão e participa ativamente da política através do Partido Social Cristão."
   },
   "teocracia_outra": {
-    "result": "",
-    "desc": ""
+    "result": "Você é um teocrata, mas sua igreja não tem força política.",
+    "desc": "Você gostaria que os sacerdotes de sua igreja governassem a sociedade civil, o que é perigoso. Teocracias das mais diferentes religiões, do Tibete budista ao Talibã muçulmano são, historicamente, regimes com grande abuso de poder. No entanto, sua igreja, por vontade ou por incapacidade não possui um braço político articulado, um partido para chamar de seu e tentar assumir o poder."
   },
   "pdt": {
     "result": "Você é um desenvolvimentista, e vai se sentir bem no PDT",
