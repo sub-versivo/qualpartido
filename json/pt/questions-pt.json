@@ -1,4 +1,29 @@
 {
+  "tortura": {
+    "question": "Você apoia a tortura?",
+    "answers": [
+      "yes",
+      "no"
+    ],
+    "results": {
+      "yes": "pl"
+    },
+    "nextquestion": {
+      "no": "milicia"
+    }
+  },
+  "milicia": {
+    "question": "Policiais devem formar milícias para realizar assassinatos ilegais e financiar esta atividade cobrando \"proteção\" dos moradores das áreas em que agem?",
+    "answers": [
+      "yes",
+      "no"
+    ],
+    "results": {},
+    "nextquestion": {
+      "yes": "pl",
+      "no": "aparelhamento"
+    }
+  },
   "aparelhamento": {
     "question": "O governante deve proteger aliados de serem investigados por corrupção?",
     "answers": [
@@ -10,33 +35,21 @@
       "yes":"centrao"
     },
     "nextquestion": {
-      "apenasinocentes":"milicia",
-      "no": "interesse"
+      "apenasinocentes":"interesse",
+      "no": "lavajatismo"
     }
   },
-  "milicia": {
-    "question": "Policiais devem formar milícias para realizar assassinatos ilegais e financiar esta atividade cobrando \"proteção\" dos moradores das áreas em que agem?",
-    "answers": [
-      "yes",
-      "no"
-    ],
-    "results": {},
-    "nextquestion": {
-      "yes":"tortura",
-      "no": "interesse"
-    }
-  },
-  "tortura": {
-    "question": "Você apoia a tortura?",
+  "lavajatismo": {
+    "question": "A corrupção é o maior problema do Brasil e combatê-la a maior prioridade?",
     "answers": [
       "yes",
       "no"
     ],
     "results": {
-      "yes": "pl"
+      "yes": "podemos"
     },
     "nextquestion": {
-      "no": "interesse"
+      "no": "clt"
     }
   },
   "interesse": {
